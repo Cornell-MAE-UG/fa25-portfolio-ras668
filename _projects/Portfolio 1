@@ -1,0 +1,10 @@
+---
+layout: project
+title: Portfolio 1
+description: Linear actuator and bar frame
+technologies: [Nothing]
+image: assets\images\1-images-0.jpg assets\images\1-images-1.jpg
+---
+
+
+I was given the task of using a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length, and 3 pin supports of which two need to be mounted on the ground and a linear actuator.  To design a frame/mechanism to lift the maximum possible weight to the highest possible height.
