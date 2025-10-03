@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Ryan Sigler - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,38 +8,38 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ras668@cornell.edu](mailto:ras668@cornell.edu) | | | **Phone:** +518 755 6850
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in Math. Passionate about Formula 1 and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.65/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **[Taconic Hills]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360 
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Arduino]**:  
+  *[Over the Summer I learned how to use Arduinos.]*  
+  - Learned about electronics 
+  - Learned about microcontrollers
 
 - **[Project Title]**:  
   *[Short Description]*  
@@ -49,10 +49,10 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Taconic Hills] - Summer Helper**  
+  [2022] - [2024]  
+  - Clean and fix computers
+  - Repair laptops
 
 ---
 
